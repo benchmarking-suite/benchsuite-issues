@@ -1,4 +1,5 @@
-This repository is used to collect all the Issues related to the Benchmarking Suite. Go to the Issues tab to browse existing issues or create a new issues.
+This repository is used to collect all the Issues related to the Benchmarking Suite. Go to the `Issues 
+<https://github.com/benchmarking-suite/benchsuite-issues/issues/>`_. tab to browse existing issues or create a new issues.
 
 Documentation
 =============
@@ -7,7 +8,7 @@ User and technical documentation is available at http://benchmarking-suite.readt
 Support
 =======
 
-For bugs, enhancements or support go to https://github.com/benchmarking-suite/benchsuite-issues/issues
+For bugs, enhancements or support go to https://github.com/benchmarking-suite/benchsuite-issues/issues/.
 
 Legal
 =====
